@@ -1,0 +1,15 @@
+[submodule "mainProgram"]
+	path = mainProgram
+	url = https://github.com/ivan28823/emca.git
+[submodule "loraProgram"]
+	path = loraProgram
+	url = https://github.com/ivan28823/arduino-serial-server.git
+[submodule "loraWANLibrary"]
+	path = loraWANLibrary
+	url = https://github.com/BeelanMX/Beelan-LoRaWAN.git
+[submodule "loraserver"]
+	path = loraserver
+	url = https://github.com/brocaar/loraserver-docker.git
+[submodule "thingsboard"]
+	path = thingsboard
+	url = https://github.com/thingsboard/thingsboard.git
