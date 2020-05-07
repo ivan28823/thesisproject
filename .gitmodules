@@ -13,3 +13,6 @@
 [submodule "thingsboard"]
 	path = thingsboard
 	url = https://github.com/thingsboard/thingsboard.git
+[submodule "tesis"]
+	path = tesis
+	url = https://github.com/ivan28823/tesis-lic

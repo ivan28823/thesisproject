@@ -14,3 +14,5 @@ instalacion segun sea el repositorio.
 [Guia de instalacion de LoRaServer](https://github.com/brocaar/loraserver-docker)
 
 [Guia de instalacion de ThingsBoard](https://github.com/thingsboard/thingsboard)
+
+[Tesis](https://github.com/ivan28823/tesis-lic)
