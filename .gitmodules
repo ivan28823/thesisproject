@@ -1,9 +1,9 @@
 [submodule "mainProgram"]
 	path = mainProgram
-	url = https://github.com/ivan28823/emca.git
+	url = https://github.com/ivanmorenoj/emca.git
 [submodule "loraProgram"]
 	path = loraProgram
-	url = https://github.com/ivan28823/arduino-serial-server.git
+	url = https://github.com/ivanmorenoj/arduino-serial-server.git
 [submodule "loraWANLibrary"]
 	path = loraWANLibrary
 	url = https://github.com/BeelanMX/Beelan-LoRaWAN.git
@@ -15,4 +15,4 @@
 	url = https://github.com/thingsboard/thingsboard.git
 [submodule "tesis"]
 	path = tesis
-	url = https://github.com/ivan28823/tesis-lic
+	url = https://github.com/ivanmorenoj/tesis-lic
